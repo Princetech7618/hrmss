@@ -4,7 +4,7 @@ import Image from "next/image";
 import counter from "./Components/counter";
 import ClientFeatureCard from "./Components/cardfeature";
 import HeroSection from "./Components/hero";
-import Drishtihr from "./Components/drishtihr";
+import DrishtiHR from "./Components/drishtihr";
 
 // Stats Data
 const statsData = [
@@ -137,7 +137,7 @@ export default function HomePage() {
       </section>
 
       {/* DRISHTI HR SECTION */}
-      <Drishtihr />
+      <DrishtiHR />
     </>
   );
 }
