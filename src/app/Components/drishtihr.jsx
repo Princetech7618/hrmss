@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Slider from "../slider/page";
-import DrishtiCTA from "./getready";
+import DrishtiCTA from "../Components/getready";
 export default function DrishtiHR() {
   return (
     <>
